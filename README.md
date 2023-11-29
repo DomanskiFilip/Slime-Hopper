@@ -6,6 +6,6 @@ I reserve all rights to the game except music.
 
 Music for the final version of the game was taken from the game Roguelands by Smash Games track name is "Mushroom Town"
 
-yt link to muskic source: https://www.youtube.com/watch?v=GL0EN_5qLl4
+yt link to music track used: https://www.youtube.com/watch?v=GL0EN_5qLl4
 
 roguelands OST: "https://bashiboizu.bandcamp.com/album/roguelands-original-soundtrack"
