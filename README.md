@@ -1,6 +1,6 @@
 # Game-I-made-in-High-school
 
-the game was made by me Filip Domanski in my high school days in C# saddly I lost the code files.
+the game was made by me in my high school days in C# saddly I lost the code files.
 
 I reserve all rights to the game except music.
 
