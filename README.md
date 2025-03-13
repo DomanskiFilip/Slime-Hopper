@@ -2,7 +2,7 @@
 
 the game was made by me in my high school days in C# saddly I lost the code files.
 
-the game has multipl leves, each introduceing new mechanics!
+the game has multiple leves, each introduceing new mechanics!
 
 Music for the final version of the game was taken from the game Roguelands by Smash Games track name is "Mushroom Town"
 
