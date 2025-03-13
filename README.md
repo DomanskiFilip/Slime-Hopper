@@ -7,3 +7,6 @@ Music for the final version of the game was taken from the game Roguelands by Sm
 yt link to music track used: https://www.youtube.com/watch?v=GL0EN_5qLl4
 
 roguelands OST: "https://bashiboizu.bandcamp.com/album/roguelands-original-soundtrack"
+
+
+![slimehopper_prev](https://github.com/user-attachments/assets/76f2cef6-70a2-46b2-839e-a0e36b33ba3c)
