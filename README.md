@@ -1,5 +1,7 @@
 # Game-I-made-in-High-school
 
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
 the game was made by me in my high school days in C# saddly I lost the code files.
 
 the game has multiple levels, each introduceing new mechanics!
